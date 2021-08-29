@@ -426,4 +426,4 @@ jekyll_compose:
         path: /assets/img/原始.jpg
       links:
         - title: Project Link
-          url: https://news.com
+          url: https://guobosi.github.io/News/
