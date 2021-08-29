@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             News
-    url:               https://guobosi.github.io/news/
+    url:               /news/
   - title:             Teachers
     url:               /about/
   - title:             Students
