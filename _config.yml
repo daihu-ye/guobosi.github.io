@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://guobosi.github.io
+# url:                   https://guobosi.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -25,12 +25,10 @@ title:                 NJUST Vision & Graph Group
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+
 
 # A shorter description for the sidebar.
-tagline:               <a href="/Introduction.html">Vision and Graph Group (VGG) is affiliated with the PCA Lab, School of Computer Science and Engineering, Nanjing University of Science and Technology.</a>
-
+tagline:
 # A list of keywords for your blog
 keywords:              []
 
@@ -50,27 +48,27 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             News
-    url:               /News/
+    url:               /news/
   - title:             Teachers
-    url:               /about/
+    url:               /teachers/
   - title:             Students
-    url:               /about/
+    url:               /students/
   - title:             Publications
-    url:               /about/
+    url:               /publications/
   - title:             Resources
-    url:               /about/
+    url:               /resources/
   - title:             Admisson
-    url:               /about/
+    url:               /admisson/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+# legal:
+#   - title:             LICENSE
+#     url:               /LICENSE/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
@@ -94,7 +92,7 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/原始.jpg
+accent_image:          /assets/img/yuanshi.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -258,7 +256,7 @@ hydejack:
   # When enabled, no user-related data will be stored until the user gives consent.
   cookies_banner:      false
 
-  # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
+  # Set to `true` if you would like to add a "Copyright @ 2020 南京理工大学Vision & Graph Group. All rights reserved." link in the footer.
   # Note that this setting has no effect when using the free version.
   advertise:           false
 
@@ -409,21 +407,21 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/原始.jpg
+        path: /assets/img/yuanshi.jpg
     posts:
       layout: post
       description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/原始.jpg
+        path: /assets/img/yuanshi.jpg
     projects:
       layout: project
       description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/原始.jpg
+        path: /assets/img/yuanshi.jpg
       links:
         - title: Project Link
-          url: https://news.com
+          url: https://example.com
