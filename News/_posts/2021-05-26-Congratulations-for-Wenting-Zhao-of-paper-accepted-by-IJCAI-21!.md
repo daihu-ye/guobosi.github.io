@@ -7,8 +7,14 @@ accent_image:
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
-description:
 invert_sidebar: true
+description: "recent paper."
+tags: [Wenting Zhao,Zhen Cui,Tong Zhang]
+websites: [Student/PHD/ZhaoWenting,Teacher/CuiZhen,Teacher/ZhangTong]
+author: Wenting Zhao， Yuan Fang， Zhen Cui*，Tong Zhang and Jian Yang.
+paper_title: Graph Deformer Network.
+paper: International Joint Conference on Artificial Intelligence(IJCAI) 2021.
+categories: [Congratulations]
 ---
 
 祝贺赵文婷的论文被IJCAI收录。

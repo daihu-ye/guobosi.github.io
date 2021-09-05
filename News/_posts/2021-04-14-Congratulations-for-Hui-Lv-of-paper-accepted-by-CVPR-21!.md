@@ -7,8 +7,14 @@ accent_image:
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
-description:
 invert_sidebar: true
+description: "recent paper."
+tags: [Hui Lv,Zhen Cui]
+websites: [Student/PHD/LvHui,Teacher/CuiZhen]
+author: Hui Lv, Chen Chen, Zhen Cui*, Chunyan Xu, Yong Li, and Jian Yang.
+paper_title: Normal Dynamics in Videos with Meta Prototype Network.
+paper: IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2021.
+categories: [Congratulations]
 ---
 
 祝贺吕辉的论文被CVPR收录。

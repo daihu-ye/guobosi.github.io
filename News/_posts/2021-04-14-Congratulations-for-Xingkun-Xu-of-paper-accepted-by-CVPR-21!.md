@@ -7,8 +7,14 @@ accent_image:
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
-description:
 invert_sidebar: true
+description: "recent paper."
+tags: [Yong Li,Zhen Cui]
+websites: [Teacher/LiYong,Teacher/CuiZhen]
+author: Xingkun Xu, Yuge Huang, Pengcheng Shen, Shaoxin, Li, Jilin Li, Feiyue Huang, Yong Li, and Zhen Cui.
+paper_title: Consistent Instance False Positive Improves Fairness in Face Recognition.
+paper: IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2021.
+categories: [Congratulations]
 ---
 
 祝贺李勇。

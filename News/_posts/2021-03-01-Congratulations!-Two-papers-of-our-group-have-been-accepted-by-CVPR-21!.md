@@ -7,8 +7,9 @@ accent_image:
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
-description:
 invert_sidebar: true
+description: "recent paper."
+categories: [Congratulations]
 ---
 
 热烈祝贺两篇论文被CVPR 2021收录。
