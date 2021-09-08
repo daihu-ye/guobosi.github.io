@@ -1,4 +1,4 @@
-current directory: D:/hydejack-starter-kit-9.1.4/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+current directory: D:/hydejack-starter-kit-9.1.4/lib/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
 D:/Ruby27-x64/bin/ruby.exe -I D:/Ruby27-x64/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210906-12468-1t1rv7u.rb extconf.rb
 checking for -lkernel32... yes
 checking for windows.h... yes
@@ -7,10 +7,10 @@ checking for HAVE_RUBY_ENCODING_H... yes
 checking for rb_thread_call_without_gvl()... yes
 creating Makefile
 
-current directory: D:/hydejack-starter-kit-9.1.4/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+current directory: D:/hydejack-starter-kit-9.1.4/lib/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
 make DESTDIR\= clean
 
-current directory: D:/hydejack-starter-kit-9.1.4/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+current directory: D:/hydejack-starter-kit-9.1.4/lib/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
 make DESTDIR\=
 generating wdm_ext-x64-mingw32.def
 compiling entry.c
@@ -27,6 +27,6 @@ compiling utils.c
 compiling wdm.c
 linking shared-object wdm_ext.so
 
-current directory: D:/hydejack-starter-kit-9.1.4/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+current directory: D:/hydejack-starter-kit-9.1.4/lib/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
 make DESTDIR\= install
 /usr/bin/install -c -m 0755 wdm_ext.so ./.gem.20210906-12468-1owrlmu

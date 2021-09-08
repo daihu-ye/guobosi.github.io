@@ -20,7 +20,7 @@ additionally provides extensive support for IRIs and URI templates.
 TEXT
 
 PKG_FILES = FileList[
-    "lib/**/*", "spec/**/*", "vendor/**/*", "data/**/*",
+    "lib/**/*", "spec/**/*", "lib/**/*", "data/**/*",
     "tasks/**/*",
     "[A-Z]*", "Rakefile"
 ].exclude(/pkg/).exclude(/database\.yml/).

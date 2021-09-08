@@ -19,7 +19,7 @@ AllCops:
     - exe/**/*
     - benchmark/**/*
     - script/**/*
-    - vendor/**/*
+    - lib/**/*
     - tmp/**/*
 
 Layout/BeginEndAlignment:
