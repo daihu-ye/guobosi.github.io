@@ -1,0 +1,137 @@
+I"<hy-drawer
+  id="_drawer"
+  class=""
+  side="left"
+  threshold="10"
+  noscroll
+  
+>
+  <header id="_sidebar" class="sidebar invert" role="banner">
+    
+
+
+
+
+<div class="sidebar-bg " style="background:url('/assets/img/blog/jj-ying.jpg') center/cover"></div>
+
+    <div class="sidebar-sticky">
+  <div class="sidebar-about">
+    
+      <a class="no-hover" href="/" tabindex="-1">
+        <img src="/assets/img/logoNL.png" class="avatar" alt="NJUST Vision & Graph Group" width="120" height="120" loading="lazy" />
+      </a>
+    
+    <a class="sidebar-title" href="/"><h2 class="h1">NJUST Vision & Graph Group</h2></a>
+    
+    
+      <p class="">
+        
+
+      </p>
+    
+  </div>
+
+  <nav class="sidebar-nav heading" role="navigation">
+    <span class="sr-only">Navigation:</span>
+<ul>
+  
+    
+      
+      <li>
+        <a
+          id="_drawer--opened"
+          href="/news/"
+          class="sidebar-nav-item "
+          
+        >
+          News
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/teachers/"
+          class="sidebar-nav-item "
+          
+        >
+          Teachers
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/students/"
+          class="sidebar-nav-item "
+          
+        >
+          Students
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/publications/"
+          class="sidebar-nav-item "
+          
+        >
+          Publications
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/resources/"
+          class="sidebar-nav-item "
+          
+        >
+          Resources
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/admisson/"
+          class="sidebar-nav-item "
+          
+        >
+          Admisson
+        </a>
+      </li>
+    
+  
+</ul>
+
+  </nav>
+
+  
+  <div class="sidebar-social">
+    <span class="sr-only">Social:</span>
+<ul>
+  
+    
+    
+
+    
+    
+
+    
+    
+  
+</ul>
+
+  </div>
+</div>
+  </header>
+</hy-drawer>
+<hr class="sr-only" hidden />
+:ET

@@ -46,7 +46,6 @@ _zip
 /stats.json
 /dist
 /build
-.jekyll-cache
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
