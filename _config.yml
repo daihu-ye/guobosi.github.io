@@ -314,7 +314,7 @@ exclude:
   - .jekyll-cache
   - .sass-cache
   - '*.toml'
-  - vendor
+  - lib
   - Gemfile
   - Gemfile.lock
 include:
